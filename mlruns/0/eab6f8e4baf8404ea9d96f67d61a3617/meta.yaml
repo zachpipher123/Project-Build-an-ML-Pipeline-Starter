@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eab6f8e4baf8404ea9d96f67d61a3617/artifacts
+end_time: 1714680632731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab6f8e4baf8404ea9d96f67d61a3617
+run_name: capable-lamb-864
+run_uuid: eab6f8e4baf8404ea9d96f67d61a3617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714680611819
+status: 3
+tags: []
+user_id: root

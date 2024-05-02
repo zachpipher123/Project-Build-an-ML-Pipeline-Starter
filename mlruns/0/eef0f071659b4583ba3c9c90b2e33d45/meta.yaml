@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eef0f071659b4583ba3c9c90b2e33d45/artifacts
+end_time: 1714671582075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eef0f071659b4583ba3c9c90b2e33d45
+run_name: whimsical-lark-419
+run_uuid: eef0f071659b4583ba3c9c90b2e33d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714671414071
+status: 3
+tags: []
+user_id: root

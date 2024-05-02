@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30be8f41e88c4a15ba97cece35c6aa01/artifacts
+end_time: 1714677305964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30be8f41e88c4a15ba97cece35c6aa01
+run_name: selective-goose-955
+run_uuid: 30be8f41e88c4a15ba97cece35c6aa01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677290331
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dde1d714844743cbbb6f72c40c42bfaf/artifacts
+end_time: 1714677787812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dde1d714844743cbbb6f72c40c42bfaf
+run_name: burly-fish-749
+run_uuid: dde1d714844743cbbb6f72c40c42bfaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677776323
+status: 4
+tags: []
+user_id: root

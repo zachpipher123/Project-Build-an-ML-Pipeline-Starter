@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4120171103a4bf39d7cef2e61d6c9e5/artifacts
+end_time: 1714677305727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4120171103a4bf39d7cef2e61d6c9e5
+run_name: grandiose-mole-375
+run_uuid: f4120171103a4bf39d7cef2e61d6c9e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677292441
+status: 4
+tags: []
+user_id: root

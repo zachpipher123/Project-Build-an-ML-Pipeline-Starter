@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6253e56d1a264e1c9575a2482da98aba/artifacts
+end_time: 1714678509489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6253e56d1a264e1c9575a2482da98aba
+run_name: sedate-conch-422
+run_uuid: 6253e56d1a264e1c9575a2482da98aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714678494767
+status: 3
+tags: []
+user_id: root

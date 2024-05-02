@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d692a3d3976a487ba3e49474c907e565/artifacts
+end_time: 1714678006000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d692a3d3976a487ba3e49474c907e565
+run_name: respected-cub-666
+run_uuid: d692a3d3976a487ba3e49474c907e565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677991989
+status: 4
+tags: []
+user_id: root

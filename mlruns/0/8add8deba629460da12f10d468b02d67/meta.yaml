@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8add8deba629460da12f10d468b02d67/artifacts
+end_time: 1714680530874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8add8deba629460da12f10d468b02d67
+run_name: grandiose-stork-279
+run_uuid: 8add8deba629460da12f10d468b02d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714680529715
+status: 4
+tags: []
+user_id: root

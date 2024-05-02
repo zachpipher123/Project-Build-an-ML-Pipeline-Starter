@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85012d1cc6964b71b4f9c1caa3b1837d/artifacts
+end_time: 1714673691389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85012d1cc6964b71b4f9c1caa3b1837d
+run_name: crawling-donkey-490
+run_uuid: 85012d1cc6964b71b4f9c1caa3b1837d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714673636791
+status: 3
+tags: []
+user_id: root

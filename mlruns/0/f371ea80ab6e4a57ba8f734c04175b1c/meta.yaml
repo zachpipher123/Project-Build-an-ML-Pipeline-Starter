@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f371ea80ab6e4a57ba8f734c04175b1c/artifacts
+end_time: 1714678034933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f371ea80ab6e4a57ba8f734c04175b1c
+run_name: wise-fly-241
+run_uuid: f371ea80ab6e4a57ba8f734c04175b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714678023005
+status: 4
+tags: []
+user_id: root

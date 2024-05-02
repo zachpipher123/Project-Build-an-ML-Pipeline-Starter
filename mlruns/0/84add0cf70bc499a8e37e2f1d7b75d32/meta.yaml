@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84add0cf70bc499a8e37e2f1d7b75d32/artifacts
+end_time: 1714674599744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84add0cf70bc499a8e37e2f1d7b75d32
+run_name: tasteful-kit-17
+run_uuid: 84add0cf70bc499a8e37e2f1d7b75d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714674586865
+status: 4
+tags: []
+user_id: root

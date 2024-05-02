@@ -1,0 +1,40 @@
+2024-05-02 13:14:56,018 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Configure stats pid to 27409
+2024-05-02 13:14:56,018 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2024-05-02 13:14:56,018 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Loading settings from /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-05-02 13:14:56,018 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-05-02 13:14:56,018 WARNING MainThread:27409 [wandb_setup.py:_flush():68] Could not save program above cwd: /root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_init.py:_log_setup():478] Logging user logs to /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_131456-4ylu9rl0/logs/debug.log
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_init.py:_log_setup():479] Logging internal logs to /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_131456-4ylu9rl0/logs/debug-internal.log
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_init.py:init():518] calling init triggers
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_init.py:init():571] starting backend
+2024-05-02 13:14:56,019 INFO    MainThread:27409 [wandb_init.py:init():575] setting up manager
+2024-05-02 13:14:56,021 INFO    MainThread:27409 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-05-02 13:14:56,026 INFO    MainThread:27409 [wandb_init.py:init():582] backend started and connected
+2024-05-02 13:14:56,030 INFO    MainThread:27409 [wandb_init.py:init():670] updated telemetry
+2024-05-02 13:14:56,044 INFO    MainThread:27409 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-05-02 13:14:58,865 INFO    MainThread:27409 [wandb_init.py:init():748] run resumed
+2024-05-02 13:14:58,884 INFO    MainThread:27409 [wandb_run.py:_on_init():2121] communicating current version
+2024-05-02 13:14:59,115 INFO    MainThread:27409 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.16.6 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-05-02 13:14:59,115 INFO    MainThread:27409 [wandb_init.py:init():758] starting run threads in backend
+2024-05-02 13:14:59,178 INFO    MainThread:27409 [wandb_run.py:_console_start():2101] atexit reg
+2024-05-02 13:14:59,179 INFO    MainThread:27409 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2024-05-02 13:14:59,180 INFO    MainThread:27409 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2024-05-02 13:14:59,180 INFO    MainThread:27409 [wandb_run.py:_redirect():2046] Redirects installed.
+2024-05-02 13:14:59,181 INFO    MainThread:27409 [wandb_init.py:init():798] run started, returning control to user process
+2024-05-02 13:15:00,775 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Configure stats pid to 27409
+2024-05-02 13:15:00,775 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2024-05-02 13:15:00,775 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Loading settings from /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-05-02 13:15:00,775 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-05-02 13:15:00,776 WARNING MainThread:27409 [wandb_setup.py:_flush():68] Could not save program above cwd: /root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-05-02 13:15:00,776 INFO    MainThread:27409 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-05-02 13:15:00,776 INFO    MainThread:27409 [wandb_init.py:_log_setup():478] Logging user logs to /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_131500-4ylu9rl0/logs/debug.log
+2024-05-02 13:15:00,776 INFO    MainThread:27409 [wandb_init.py:_log_setup():479] Logging internal logs to /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_131500-4ylu9rl0/logs/debug-internal.log
+2024-05-02 13:15:00,776 INFO    MainThread:27409 [wandb_init.py:init():518] calling init triggers
+2024-05-02 13:15:00,776 INFO    MainThread:27409 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-05-02 13:15:00,776 INFO    MainThread:27409 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-05-02 13:15:04,878 WARNING MsgRouterThr:27409 [router.py:message_loop():77] message_loop has been closed

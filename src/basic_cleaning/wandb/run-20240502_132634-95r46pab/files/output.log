@@ -1,0 +1,33 @@
+2024-05-02 13:26:36,461 Fetching raw dataset.
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Project zachpipher123/nyc_airbnb does not contain artifact: "sample.csv:latest"
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/normalize.py", line 26, in wrapper
+    return func(*args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/public.py", line 949, in artifact
+    artifact = Artifact(self.client, entity, project, artifact_name)
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/public.py", line 4343, in __init__
+    self._load()
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/public.py", line 5072, in _load
+    raise ValueError(
+ValueError: Project zachpipher123/nyc_airbnb does not contain artifact: "sample.csv:latest"
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 101, in <module>
+    go(args)
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 27, in go
+    local_path = wandb.use_artifact('sample.csv:latest').file()
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 333, in wrapper
+    return func(self, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2617, in use_artifact
+    artifact = public_api.artifact(type=type, name=name)
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/normalize.py", line 64, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/normalize.py", line 26, in wrapper
+    return func(*args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/public.py", line 949, in artifact
+    artifact = Artifact(self.client, entity, project, artifact_name)
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/public.py", line 4343, in __init__
+    self._load()
+  File "/root/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/wandb/apis/public.py", line 5072, in _load
+    raise ValueError(
+wandb.errors.CommError: Project zachpipher123/nyc_airbnb does not contain artifact: "sample.csv:latest"

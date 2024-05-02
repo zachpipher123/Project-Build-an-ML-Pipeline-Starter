@@ -1,0 +1,31 @@
+diff --git a/conda.yml b/conda.yml
+index e8f87fa..eb0d9e0 100644
+--- a/conda.yml
++++ b/conda.yml
+@@ -1,11 +1,23 @@
+ name: components
++
+ channels:
++
+   - conda-forge
++
+   - defaults
++
+ dependencies:
++
+   - mlflow=2.1.1
++
+   - pyyaml=5.3.1
++
+   - hydra-core=1.0.6
++
+   - pip=20.3.3
++
+   - pip:
+-      - wandb==0.13.9
+\ No newline at end of file
++
++      - wandb==0.13.9
++
++      - databricks_cli==0.8.7
+\ No newline at end of file

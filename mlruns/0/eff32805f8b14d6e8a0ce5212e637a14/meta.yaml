@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eff32805f8b14d6e8a0ce5212e637a14/artifacts
+end_time: 1714678006231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff32805f8b14d6e8a0ce5212e637a14
+run_name: tasteful-bird-524
+run_uuid: eff32805f8b14d6e8a0ce5212e637a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677989947
+status: 4
+tags: []
+user_id: root

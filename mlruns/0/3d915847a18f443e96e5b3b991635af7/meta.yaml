@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3d915847a18f443e96e5b3b991635af7/artifacts
+end_time: 1714674599990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d915847a18f443e96e5b3b991635af7
+run_name: auspicious-ant-428
+run_uuid: 3d915847a18f443e96e5b3b991635af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714674584862
+status: 4
+tags: []
+user_id: root

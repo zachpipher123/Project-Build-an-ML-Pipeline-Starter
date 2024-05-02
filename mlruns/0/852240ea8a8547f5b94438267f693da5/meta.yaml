@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/852240ea8a8547f5b94438267f693da5/artifacts
+end_time: 1714677788050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 852240ea8a8547f5b94438267f693da5
+run_name: sassy-shrew-156
+run_uuid: 852240ea8a8547f5b94438267f693da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677774244
+status: 4
+tags: []
+user_id: root

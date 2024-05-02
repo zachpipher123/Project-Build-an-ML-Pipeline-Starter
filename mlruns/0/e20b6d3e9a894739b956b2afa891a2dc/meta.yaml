@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e20b6d3e9a894739b956b2afa891a2dc/artifacts
+end_time: 1714680433048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e20b6d3e9a894739b956b2afa891a2dc
+run_name: bold-squirrel-633
+run_uuid: e20b6d3e9a894739b956b2afa891a2dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714680431885
+status: 4
+tags: []
+user_id: root

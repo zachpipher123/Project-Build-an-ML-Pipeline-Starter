@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6695df344e24b90ad1c7b2b5cbfd1d3/artifacts
+end_time: 1714678035171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6695df344e24b90ad1c7b2b5cbfd1d3
+run_name: indecisive-smelt-718
+run_uuid: c6695df344e24b90ad1c7b2b5cbfd1d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714678020941
+status: 4
+tags: []
+user_id: root

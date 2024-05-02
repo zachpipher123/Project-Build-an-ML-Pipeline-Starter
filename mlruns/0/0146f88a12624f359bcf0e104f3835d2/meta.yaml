@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0146f88a12624f359bcf0e104f3835d2/artifacts
+end_time: 1714674579976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0146f88a12624f359bcf0e104f3835d2
+run_name: burly-duck-69
+run_uuid: 0146f88a12624f359bcf0e104f3835d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714674564456
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00ae13f095d74929bc0dcb48e2884f83/artifacts
+end_time: 1714680478172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00ae13f095d74929bc0dcb48e2884f83
+run_name: orderly-boar-180
+run_uuid: 00ae13f095d74929bc0dcb48e2884f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714680476973
+status: 4
+tags: []
+user_id: root

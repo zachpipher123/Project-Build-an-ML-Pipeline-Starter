@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/314e9378b44a4654bf6cad08b78146ae/artifacts
+end_time: 1714671581916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 314e9378b44a4654bf6cad08b78146ae
+run_name: intrigued-sheep-518
+run_uuid: 314e9378b44a4654bf6cad08b78146ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714671482903
+status: 3
+tags: []
+user_id: root

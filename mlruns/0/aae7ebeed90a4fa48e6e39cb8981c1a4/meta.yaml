@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aae7ebeed90a4fa48e6e39cb8981c1a4/artifacts
+end_time: 1714677162426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aae7ebeed90a4fa48e6e39cb8981c1a4
+run_name: mysterious-ape-729
+run_uuid: aae7ebeed90a4fa48e6e39cb8981c1a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677145790
+status: 4
+tags: []
+user_id: root

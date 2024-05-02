@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05874998247240e8abd8413c147d5818/artifacts
+end_time: 1714674579829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05874998247240e8abd8413c147d5818
+run_name: burly-wren-392
+run_uuid: 05874998247240e8abd8413c147d5818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714674566474
+status: 3
+tags: []
+user_id: root

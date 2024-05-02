@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8e31d9dced64a1ba2324b930bdbc633/artifacts
+end_time: 1714678424391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8e31d9dced64a1ba2324b930bdbc633
+run_name: serious-bass-263
+run_uuid: c8e31d9dced64a1ba2324b930bdbc633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714678401902
+status: 3
+tags: []
+user_id: root
