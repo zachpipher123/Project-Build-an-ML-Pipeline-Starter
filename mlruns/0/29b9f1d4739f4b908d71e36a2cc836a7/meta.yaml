@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/29b9f1d4739f4b908d71e36a2cc836a7/artifacts
+end_time: 1714682337804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29b9f1d4739f4b908d71e36a2cc836a7
+run_name: rumbling-fawn-115
+run_uuid: 29b9f1d4739f4b908d71e36a2cc836a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714682322878
+status: 3
+tags: []
+user_id: root
