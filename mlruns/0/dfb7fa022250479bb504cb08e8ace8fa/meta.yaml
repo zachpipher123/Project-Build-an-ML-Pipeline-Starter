@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dfb7fa022250479bb504cb08e8ace8fa/artifacts
+end_time: 1714682585321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfb7fa022250479bb504cb08e8ace8fa
+run_name: secretive-bear-393
+run_uuid: dfb7fa022250479bb504cb08e8ace8fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714682548675
+status: 3
+tags: []
+user_id: root

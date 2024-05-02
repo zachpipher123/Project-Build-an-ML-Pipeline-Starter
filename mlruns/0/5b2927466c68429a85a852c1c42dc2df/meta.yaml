@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5b2927466c68429a85a852c1c42dc2df/artifacts
+end_time: 1714683213409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b2927466c68429a85a852c1c42dc2df
+run_name: agreeable-ram-324
+run_uuid: 5b2927466c68429a85a852c1c42dc2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714683210239
+status: 3
+tags: []
+user_id: root
