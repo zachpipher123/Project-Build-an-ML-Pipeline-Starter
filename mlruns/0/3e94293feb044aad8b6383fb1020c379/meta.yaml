@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3e94293feb044aad8b6383fb1020c379/artifacts
+end_time: 1714681836692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e94293feb044aad8b6383fb1020c379
+run_name: righteous-lark-72
+run_uuid: 3e94293feb044aad8b6383fb1020c379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714681795005
+status: 3
+tags: []
+user_id: root
