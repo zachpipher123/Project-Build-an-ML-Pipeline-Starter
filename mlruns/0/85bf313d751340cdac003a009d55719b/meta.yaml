@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85bf313d751340cdac003a009d55719b/artifacts
+end_time: 1714693038675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85bf313d751340cdac003a009d55719b
+run_name: upbeat-robin-104
+run_uuid: 85bf313d751340cdac003a009d55719b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693023233
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6b737b33d99a47e2b33c16075689b524/artifacts
+end_time: 1714702168909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b737b33d99a47e2b33c16075689b524
+run_name: mercurial-cod-436
+run_uuid: 6b737b33d99a47e2b33c16075689b524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714702129588
+status: 4
+tags: []
+user_id: root

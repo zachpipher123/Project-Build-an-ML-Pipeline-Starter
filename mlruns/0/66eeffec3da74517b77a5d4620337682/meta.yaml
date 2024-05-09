@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/66eeffec3da74517b77a5d4620337682/artifacts
+end_time: 1714692961816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66eeffec3da74517b77a5d4620337682
+run_name: bald-perch-11
+run_uuid: 66eeffec3da74517b77a5d4620337682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692942271
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be027d76911e4e6b8836dafc900b7194/artifacts
+end_time: 1714692385500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be027d76911e4e6b8836dafc900b7194
+run_name: loud-pig-101
+run_uuid: be027d76911e4e6b8836dafc900b7194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692383269
+status: 3
+tags: []
+user_id: root

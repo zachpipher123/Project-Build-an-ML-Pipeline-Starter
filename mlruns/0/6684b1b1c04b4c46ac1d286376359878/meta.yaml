@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6684b1b1c04b4c46ac1d286376359878/artifacts
+end_time: 1714693873811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6684b1b1c04b4c46ac1d286376359878
+run_name: dapper-wolf-587
+run_uuid: 6684b1b1c04b4c46ac1d286376359878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693854403
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/462f7ab0380c4efdb8c34888191ebe10/artifacts
+end_time: 1714693130072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 462f7ab0380c4efdb8c34888191ebe10
+run_name: stately-owl-930
+run_uuid: 462f7ab0380c4efdb8c34888191ebe10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693062549
+status: 4
+tags: []
+user_id: root

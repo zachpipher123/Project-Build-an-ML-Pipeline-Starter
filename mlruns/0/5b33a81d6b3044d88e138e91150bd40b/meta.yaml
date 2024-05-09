@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5b33a81d6b3044d88e138e91150bd40b/artifacts
+end_time: 1714691347765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b33a81d6b3044d88e138e91150bd40b
+run_name: fortunate-boar-875
+run_uuid: 5b33a81d6b3044d88e138e91150bd40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714691344685
+status: 3
+tags: []
+user_id: root

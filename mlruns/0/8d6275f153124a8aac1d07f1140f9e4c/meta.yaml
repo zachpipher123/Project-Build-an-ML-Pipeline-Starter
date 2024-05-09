@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8d6275f153124a8aac1d07f1140f9e4c/artifacts
+end_time: 1714687219367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6275f153124a8aac1d07f1140f9e4c
+run_name: placid-ape-580
+run_uuid: 8d6275f153124a8aac1d07f1140f9e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687195443
+status: 3
+tags: []
+user_id: root

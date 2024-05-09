@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a678e7b0c7049169ddf7b1cf63b137f/artifacts
+end_time: 1714701716875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a678e7b0c7049169ddf7b1cf63b137f
+run_name: dazzling-croc-882
+run_uuid: 0a678e7b0c7049169ddf7b1cf63b137f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714701682803
+status: 4
+tags: []
+user_id: root

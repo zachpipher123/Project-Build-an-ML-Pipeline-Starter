@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab61572a245248259bd15c247d9e7760/artifacts
+end_time: 1714687183088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab61572a245248259bd15c247d9e7760
+run_name: stately-rook-626
+run_uuid: ab61572a245248259bd15c247d9e7760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687170790
+status: 3
+tags: []
+user_id: root

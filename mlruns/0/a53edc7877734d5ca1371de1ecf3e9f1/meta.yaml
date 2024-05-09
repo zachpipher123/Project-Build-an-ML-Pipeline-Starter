@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a53edc7877734d5ca1371de1ecf3e9f1/artifacts
+end_time: 1714700287988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a53edc7877734d5ca1371de1ecf3e9f1
+run_name: able-cub-593
+run_uuid: a53edc7877734d5ca1371de1ecf3e9f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714700199412
+status: 3
+tags: []
+user_id: root

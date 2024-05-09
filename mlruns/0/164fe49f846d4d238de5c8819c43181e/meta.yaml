@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/164fe49f846d4d238de5c8819c43181e/artifacts
+end_time: 1714690665784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 164fe49f846d4d238de5c8819c43181e
+run_name: respected-fowl-318
+run_uuid: 164fe49f846d4d238de5c8819c43181e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690652345
+status: 3
+tags: []
+user_id: root

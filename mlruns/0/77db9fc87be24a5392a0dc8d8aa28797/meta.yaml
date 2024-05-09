@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/77db9fc87be24a5392a0dc8d8aa28797/artifacts
+end_time: 1714686115721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77db9fc87be24a5392a0dc8d8aa28797
+run_name: loud-bee-603
+run_uuid: 77db9fc87be24a5392a0dc8d8aa28797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714686112813
+status: 4
+tags: []
+user_id: root

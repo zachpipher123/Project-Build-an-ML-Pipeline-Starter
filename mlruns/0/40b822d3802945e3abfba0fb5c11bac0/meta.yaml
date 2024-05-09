@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/40b822d3802945e3abfba0fb5c11bac0/artifacts
+end_time: 1714691810753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40b822d3802945e3abfba0fb5c11bac0
+run_name: loud-carp-442
+run_uuid: 40b822d3802945e3abfba0fb5c11bac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714691699516
+status: 4
+tags: []
+user_id: root

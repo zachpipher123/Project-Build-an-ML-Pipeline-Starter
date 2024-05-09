@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a4480c6584249e0aecff0567a4dcb5b/artifacts
+end_time: 1715215744804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a4480c6584249e0aecff0567a4dcb5b
+run_name: whimsical-eel-809
+run_uuid: 0a4480c6584249e0aecff0567a4dcb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715215724668
+status: 3
+tags: []
+user_id: root

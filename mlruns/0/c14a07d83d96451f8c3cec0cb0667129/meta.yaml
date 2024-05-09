@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c14a07d83d96451f8c3cec0cb0667129/artifacts
+end_time: 1714700656168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c14a07d83d96451f8c3cec0cb0667129
+run_name: bittersweet-hawk-641
+run_uuid: c14a07d83d96451f8c3cec0cb0667129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714700544026
+status: 4
+tags: []
+user_id: root

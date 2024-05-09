@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/63557c4f40294cc8b670ad459f04bc02/artifacts
+end_time: 1714692445523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63557c4f40294cc8b670ad459f04bc02
+run_name: rare-kite-881
+run_uuid: 63557c4f40294cc8b670ad459f04bc02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692416407
+status: 3
+tags: []
+user_id: root

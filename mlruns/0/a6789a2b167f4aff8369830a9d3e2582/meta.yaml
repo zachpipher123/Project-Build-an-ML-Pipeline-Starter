@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6789a2b167f4aff8369830a9d3e2582/artifacts
+end_time: 1714699400054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6789a2b167f4aff8369830a9d3e2582
+run_name: shivering-panda-530
+run_uuid: a6789a2b167f4aff8369830a9d3e2582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699316069
+status: 3
+tags: []
+user_id: root

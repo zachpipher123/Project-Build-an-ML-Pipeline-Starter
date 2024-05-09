@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/623397be77a640ac98eb9b785c0e1128/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 623397be77a640ac98eb9b785c0e1128
+run_name: invincible-skink-764
+run_uuid: 623397be77a640ac98eb9b785c0e1128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692459189
+status: 1
+tags: []
+user_id: root

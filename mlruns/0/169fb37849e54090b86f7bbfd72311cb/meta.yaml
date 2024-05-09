@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/169fb37849e54090b86f7bbfd72311cb/artifacts
+end_time: 1714691274223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 169fb37849e54090b86f7bbfd72311cb
+run_name: serious-eel-34
+run_uuid: 169fb37849e54090b86f7bbfd72311cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714691271128
+status: 3
+tags: []
+user_id: root

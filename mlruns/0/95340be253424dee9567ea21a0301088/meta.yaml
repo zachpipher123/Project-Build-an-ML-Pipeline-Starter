@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95340be253424dee9567ea21a0301088/artifacts
+end_time: 1714702206449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95340be253424dee9567ea21a0301088
+run_name: sneaky-robin-191
+run_uuid: 95340be253424dee9567ea21a0301088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714702174748
+status: 4
+tags: []
+user_id: root

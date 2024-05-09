@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/34b453d7d03f40cfa8e1e838112fe956/artifacts
+end_time: 1714690414405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34b453d7d03f40cfa8e1e838112fe956
+run_name: sedate-goose-899
+run_uuid: 34b453d7d03f40cfa8e1e838112fe956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690386402
+status: 3
+tags: []
+user_id: root

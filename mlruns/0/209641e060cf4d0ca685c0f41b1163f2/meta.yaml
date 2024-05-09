@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/209641e060cf4d0ca685c0f41b1163f2/artifacts
+end_time: 1714699689581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 209641e060cf4d0ca685c0f41b1163f2
+run_name: intrigued-fawn-107
+run_uuid: 209641e060cf4d0ca685c0f41b1163f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699676573
+status: 3
+tags: []
+user_id: root

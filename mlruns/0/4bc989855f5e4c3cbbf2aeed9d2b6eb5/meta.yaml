@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4bc989855f5e4c3cbbf2aeed9d2b6eb5/artifacts
+end_time: 1714686154746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bc989855f5e4c3cbbf2aeed9d2b6eb5
+run_name: ambitious-asp-231
+run_uuid: 4bc989855f5e4c3cbbf2aeed9d2b6eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714686151890
+status: 4
+tags: []
+user_id: root

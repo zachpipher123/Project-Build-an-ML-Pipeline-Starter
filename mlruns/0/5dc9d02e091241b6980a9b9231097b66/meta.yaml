@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5dc9d02e091241b6980a9b9231097b66/artifacts
+end_time: 1714687096240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dc9d02e091241b6980a9b9231097b66
+run_name: grandiose-carp-392
+run_uuid: 5dc9d02e091241b6980a9b9231097b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687066489
+status: 3
+tags: []
+user_id: root

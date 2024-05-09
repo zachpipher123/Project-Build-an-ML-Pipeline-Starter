@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8fea441c679a43f382786a5ce7431a29/artifacts
+end_time: 1714699622816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fea441c679a43f382786a5ce7431a29
+run_name: able-pug-22
+run_uuid: 8fea441c679a43f382786a5ce7431a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699593929
+status: 3
+tags: []
+user_id: root

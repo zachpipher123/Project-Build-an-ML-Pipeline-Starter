@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a51d3c6a3fb04626bb5e4c55e27cd7a9/artifacts
+end_time: 1714690164108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a51d3c6a3fb04626bb5e4c55e27cd7a9
+run_name: bold-fox-423
+run_uuid: a51d3c6a3fb04626bb5e4c55e27cd7a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690160665
+status: 3
+tags: []
+user_id: root

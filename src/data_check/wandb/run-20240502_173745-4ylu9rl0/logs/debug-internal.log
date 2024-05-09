@@ -1,0 +1,52 @@
+2024-05-02 17:37:45,836 INFO    StreamThr :96372 [internal.py:wandb_internal():87] W&B internal server running at pid: 96372, started at: 2024-05-02 17:37:45.836124
+2024-05-02 17:37:45,838 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: status
+2024-05-02 17:37:45,841 INFO    WriterThread:96372 [datastore.py:open_for_write():85] open: /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_173745-4ylu9rl0/run-4ylu9rl0.wandb
+2024-05-02 17:37:45,842 DEBUG   SenderThread:96372 [sender.py:send():334] send: header
+2024-05-02 17:37:45,846 DEBUG   SenderThread:96372 [sender.py:send():334] send: run
+2024-05-02 17:37:45,847 INFO    SenderThread:96372 [sender.py:_maybe_setup_resume():721] checking resume status for None/nyc_airbnb/4ylu9rl0
+2024-05-02 17:37:50,847 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:37:51,833 ERROR   SenderThread:96372 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 17:37:51,833 ERROR   SenderThread:96372 [internal_api.py:execute():245] {"errors":[{"message":"run 4ylu9rl0 was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 17:37:53,081 ERROR   SenderThread:96372 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 17:37:53,082 ERROR   SenderThread:96372 [internal_api.py:execute():245] {"errors":[{"message":"run 4ylu9rl0 was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 17:37:55,596 ERROR   SenderThread:96372 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 17:37:55,596 ERROR   SenderThread:96372 [internal_api.py:execute():245] {"errors":[{"message":"run 4ylu9rl0 was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 17:37:55,597 INFO    SenderThread:96372 [retry.py:__call__():169] Retry attempt failed:
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/lib/python3.9/site-packages/wandb/sdk/lib/retry.py", line 128, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/lib/python3.9/site-packages/wandb/sdk/internal/internal_api.py", line 241, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/lib/python3.9/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 409 Client Error: Conflict for url: https://api.wandb.ai/graphql
+2024-05-02 17:37:55,848 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:00,317 ERROR   SenderThread:96372 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 17:38:00,317 ERROR   SenderThread:96372 [internal_api.py:execute():245] {"errors":[{"message":"run 4ylu9rl0 was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 17:38:00,849 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:05,851 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:09,156 ERROR   SenderThread:96372 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 17:38:09,156 ERROR   SenderThread:96372 [internal_api.py:execute():245] {"errors":[{"message":"run 4ylu9rl0 was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 17:38:10,852 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:15,853 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:20,854 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:25,855 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:26,143 ERROR   SenderThread:96372 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 17:38:26,144 ERROR   SenderThread:96372 [internal_api.py:execute():245] {"errors":[{"message":"run 4ylu9rl0 was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 17:38:30,857 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:35,858 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:40,860 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 17:38:45,861 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: cancel
+2024-05-02 17:38:45,861 DEBUG   SenderThread:96372 [sender.py:send():343] Record cancelled: run
+2024-05-02 17:38:45,861 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: cancel
+2024-05-02 17:38:45,862 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: status_report
+2024-05-02 17:38:48,258 DEBUG   HandlerThread:96372 [handler.py:handle_request():144] handle_request: shutdown
+2024-05-02 17:38:48,258 INFO    HandlerThread:96372 [handler.py:finish():841] shutting down handler
+2024-05-02 17:38:48,862 INFO    SenderThread:96372 [sender.py:finish():1491] shutting down sender
+2024-05-02 17:38:48,863 INFO    WriterThread:96372 [datastore.py:close():299] close: /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_173745-4ylu9rl0/run-4ylu9rl0.wandb

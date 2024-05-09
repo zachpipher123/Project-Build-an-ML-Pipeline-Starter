@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ef7b196d3d794bb482fb74b732a757bc/artifacts
+end_time: 1715215745013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef7b196d3d794bb482fb74b732a757bc
+run_name: smiling-goose-661
+run_uuid: ef7b196d3d794bb482fb74b732a757bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715215714488
+status: 3
+tags: []
+user_id: root

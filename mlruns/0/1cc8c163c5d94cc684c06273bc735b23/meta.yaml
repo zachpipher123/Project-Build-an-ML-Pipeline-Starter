@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1cc8c163c5d94cc684c06273bc735b23/artifacts
+end_time: 1714700853002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cc8c163c5d94cc684c06273bc735b23
+run_name: clumsy-sponge-119
+run_uuid: 1cc8c163c5d94cc684c06273bc735b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714700815009
+status: 4
+tags: []
+user_id: root

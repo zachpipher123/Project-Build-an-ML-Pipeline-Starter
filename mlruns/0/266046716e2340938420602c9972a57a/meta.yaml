@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/266046716e2340938420602c9972a57a/artifacts
+end_time: 1714685754304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 266046716e2340938420602c9972a57a
+run_name: peaceful-hare-739
+run_uuid: 266046716e2340938420602c9972a57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714685751457
+status: 4
+tags: []
+user_id: root

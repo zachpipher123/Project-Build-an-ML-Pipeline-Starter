@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6d7174ee589b4d509fa5d16f58c6d6a7/artifacts
+end_time: 1714692961990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d7174ee589b4d509fa5d16f58c6d6a7
+run_name: resilient-crow-434
+run_uuid: 6d7174ee589b4d509fa5d16f58c6d6a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692940034
+status: 3
+tags: []
+user_id: root

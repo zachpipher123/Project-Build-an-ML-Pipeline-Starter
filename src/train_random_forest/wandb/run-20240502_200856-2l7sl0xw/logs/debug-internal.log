@@ -1,0 +1,188 @@
+2024-05-02 20:08:56,421 INFO    StreamThr :38048 [internal.py:wandb_internal():87] W&B internal server running at pid: 38048, started at: 2024-05-02 20:08:56.421001
+2024-05-02 20:08:56,424 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: status
+2024-05-02 20:08:56,427 INFO    WriterThread:38048 [datastore.py:open_for_write():85] open: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/run-2l7sl0xw.wandb
+2024-05-02 20:08:56,428 DEBUG   SenderThread:38048 [sender.py:send():334] send: header
+2024-05-02 20:08:56,434 DEBUG   SenderThread:38048 [sender.py:send():334] send: run
+2024-05-02 20:08:57,062 INFO    SenderThread:38048 [dir_watcher.py:__init__():216] watching files in: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files
+2024-05-02 20:08:57,063 INFO    SenderThread:38048 [sender.py:_start_run_threads():1065] run started: 2l7sl0xw with start time 1714702136.420698
+2024-05-02 20:08:57,063 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: summary_record
+2024-05-02 20:08:57,063 INFO    SenderThread:38048 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-05-02 20:08:57,065 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: check_version
+2024-05-02 20:08:57,065 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: check_version
+2024-05-02 20:08:57,297 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: run_start
+2024-05-02 20:08:57,344 DEBUG   HandlerThread:38048 [system_info.py:__init__():31] System info init
+2024-05-02 20:08:57,345 DEBUG   HandlerThread:38048 [system_info.py:__init__():46] System info init done
+2024-05-02 20:08:57,345 INFO    HandlerThread:38048 [system_monitor.py:start():151] Starting system monitor
+2024-05-02 20:08:57,345 INFO    SystemMonitor:38048 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-05-02 20:08:57,345 INFO    HandlerThread:38048 [system_monitor.py:probe():172] Collecting system info
+2024-05-02 20:08:57,346 INFO    SystemMonitor:38048 [interfaces.py:start():168] Started cpu
+2024-05-02 20:08:57,346 INFO    SystemMonitor:38048 [interfaces.py:start():168] Started disk
+2024-05-02 20:08:57,347 INFO    SystemMonitor:38048 [interfaces.py:start():168] Started gpu
+2024-05-02 20:08:57,347 INFO    SystemMonitor:38048 [interfaces.py:start():168] Started memory
+2024-05-02 20:08:57,348 INFO    SystemMonitor:38048 [interfaces.py:start():168] Started network
+2024-05-02 20:08:57,361 DEBUG   HandlerThread:38048 [system_info.py:probe():195] Probing system
+2024-05-02 20:08:57,384 DEBUG   HandlerThread:38048 [system_info.py:_probe_git():180] Probing git
+2024-05-02 20:08:57,393 DEBUG   HandlerThread:38048 [system_info.py:_probe_git():188] Probing git done
+2024-05-02 20:08:57,393 DEBUG   HandlerThread:38048 [system_info.py:probe():241] Probing system done
+2024-05-02 20:08:57,393 DEBUG   HandlerThread:38048 [system_monitor.py:probe():181] {'os': 'Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.9.19', 'heartbeatAt': '2024-05-03T02:08:57.361631', 'startedAt': '2024-05-03T02:08:56.414499', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/root/Project-Build-an-ML-Pipeline-Starter/multirun/2024-05-02/20-08-51/0/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/zachpipher123/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '8e998a8b98488b6ee6701939ca6e340cab3436f6'}, 'email': None, 'root': '/root/Project-Build-an-ML-Pipeline-Starter', 'host': 'DESKTOP-OU8VA5U', 'username': 'root', 'executable': '/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/bin/python', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 3599.9959999999996, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}, {'current': 3599.996, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 24.26386260986328}, 'gpu': 'NVIDIA GeForce GTX 1060 3GB', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce GTX 1060 3GB', 'memory_total': 3221225472}], 'memory': {'total': 7.724678039550781}}
+2024-05-02 20:08:57,393 INFO    HandlerThread:38048 [system_monitor.py:probe():182] Finished collecting system info
+2024-05-02 20:08:57,393 INFO    HandlerThread:38048 [system_monitor.py:probe():185] Publishing system info
+2024-05-02 20:08:57,393 DEBUG   HandlerThread:38048 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-05-02 20:08:57,394 DEBUG   HandlerThread:38048 [system_info.py:_save_pip():67] Saving pip packages done
+2024-05-02 20:08:57,394 DEBUG   HandlerThread:38048 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-05-02 20:08:58,064 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_created():275] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/requirements.txt
+2024-05-02 20:08:58,065 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_created():275] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/conda-environment.yaml
+2024-05-02 20:08:58,065 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_created():275] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/wandb-summary.json
+2024-05-02 20:08:58,880 DEBUG   HandlerThread:38048 [system_info.py:_save_conda():86] Saving conda packages done
+2024-05-02 20:08:58,881 INFO    HandlerThread:38048 [system_monitor.py:probe():187] Finished publishing system info
+2024-05-02 20:08:58,882 DEBUG   SenderThread:38048 [sender.py:send():334] send: files
+2024-05-02 20:08:58,883 INFO    SenderThread:38048 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-05-02 20:08:58,890 DEBUG   SenderThread:38048 [sender.py:send():334] send: telemetry
+2024-05-02 20:08:58,893 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: stop_status
+2024-05-02 20:08:58,893 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: stop_status
+2024-05-02 20:08:59,065 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_modified():292] file/dir modified: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/conda-environment.yaml
+2024-05-02 20:08:59,065 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_created():275] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/wandb-metadata.json
+2024-05-02 20:08:59,189 DEBUG   SenderThread:38048 [sender.py:send():334] send: config
+2024-05-02 20:08:59,190 DEBUG   SenderThread:38048 [sender.py:send():334] send: config
+2024-05-02 20:08:59,718 DEBUG   SenderThread:38048 [sender.py:send():334] send: exit
+2024-05-02 20:08:59,719 INFO    SenderThread:38048 [sender.py:send_exit():557] handling exit code: 1
+2024-05-02 20:08:59,719 INFO    SenderThread:38048 [sender.py:send_exit():559] handling runtime: 2
+2024-05-02 20:08:59,719 INFO    SenderThread:38048 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-05-02 20:08:59,719 INFO    SenderThread:38048 [sender.py:send_exit():565] send defer
+2024-05-02 20:08:59,719 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,719 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 0
+2024-05-02 20:08:59,720 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,720 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-05-02 20:08:59,720 INFO    SenderThread:38048 [sender.py:transition_state():585] send defer: 1
+2024-05-02 20:08:59,720 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,720 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 1
+2024-05-02 20:08:59,720 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,720 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-05-02 20:08:59,720 INFO    SenderThread:38048 [sender.py:transition_state():585] send defer: 2
+2024-05-02 20:08:59,721 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,721 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 2
+2024-05-02 20:08:59,721 INFO    HandlerThread:38048 [system_monitor.py:finish():161] Stopping system monitor
+2024-05-02 20:08:59,721 DEBUG   SystemMonitor:38048 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-05-02 20:08:59,722 DEBUG   SystemMonitor:38048 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-05-02 20:08:59,722 DEBUG   SystemMonitor:38048 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-05-02 20:08:59,723 INFO    HandlerThread:38048 [interfaces.py:finish():175] Joined cpu
+2024-05-02 20:08:59,723 INFO    HandlerThread:38048 [interfaces.py:finish():175] Joined disk
+2024-05-02 20:08:59,734 INFO    HandlerThread:38048 [interfaces.py:finish():175] Joined gpu
+2024-05-02 20:08:59,735 INFO    HandlerThread:38048 [interfaces.py:finish():175] Joined memory
+2024-05-02 20:08:59,735 INFO    HandlerThread:38048 [interfaces.py:finish():175] Joined network
+2024-05-02 20:08:59,735 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,735 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-05-02 20:08:59,735 INFO    SenderThread:38048 [sender.py:transition_state():585] send defer: 3
+2024-05-02 20:08:59,735 DEBUG   SenderThread:38048 [sender.py:send():334] send: stats
+2024-05-02 20:08:59,735 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,736 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 3
+2024-05-02 20:08:59,736 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,736 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-05-02 20:08:59,736 INFO    SenderThread:38048 [sender.py:transition_state():585] send defer: 4
+2024-05-02 20:08:59,736 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,736 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 4
+2024-05-02 20:08:59,737 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,737 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-05-02 20:08:59,737 INFO    SenderThread:38048 [sender.py:transition_state():585] send defer: 5
+2024-05-02 20:08:59,737 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,737 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 5
+2024-05-02 20:08:59,737 DEBUG   SenderThread:38048 [sender.py:send():334] send: summary
+2024-05-02 20:08:59,737 INFO    SenderThread:38048 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-05-02 20:08:59,737 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,738 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-05-02 20:08:59,738 INFO    SenderThread:38048 [sender.py:transition_state():585] send defer: 6
+2024-05-02 20:08:59,738 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: defer
+2024-05-02 20:08:59,738 INFO    HandlerThread:38048 [handler.py:handle_request_defer():170] handle defer: 6
+2024-05-02 20:08:59,738 DEBUG   SenderThread:38048 [sender.py:send_request():361] send_request: defer
+2024-05-02 20:08:59,738 INFO    SenderThread:38048 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-05-02 20:08:59,741 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: status_report
+2024-05-02 20:09:00,014 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:09:00,014 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:09:00,065 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_modified():292] file/dir modified: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/wandb-summary.json
+2024-05-02 20:09:00,065 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_created():275] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/output.log
+2024-05-02 20:09:00,718 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: poll_exit
+2024-05-02 20:09:01,435 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:09:01,435 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:09:02,066 INFO    Thread-12 :38048 [dir_watcher.py:_on_file_modified():292] file/dir modified: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/files/output.log
+2024-05-02 20:09:03,992 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:09:03,992 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:09:03,992 INFO    SenderThread:38048 [retry.py:__call__():169] Retry attempt failed:
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/lib/retry.py", line 128, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal_api.py", line 241, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 409 Client Error: Conflict for url: https://api.wandb.ai/graphql
+2024-05-02 20:09:05,721 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 20:09:09,137 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:09:09,137 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:09:10,723 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 20:09:15,725 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 20:09:18,623 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:09:18,624 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:09:20,727 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 20:09:25,729 DEBUG   HandlerThread:38048 [handler.py:handle_request():144] handle_request: keepalive
+2024-05-02 20:09:29,465 WARNING StreamThr :38048 [internal.py:is_dead():415] Internal process exiting, parent pid 38021 disappeared
+2024-05-02 20:09:29,465 ERROR   StreamThr :38048 [internal.py:wandb_internal():153] Internal process shutdown.
+2024-05-02 20:09:29,726 INFO    WriterThread:38048 [datastore.py:close():299] close: /root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240502_200856-2l7sl0xw/run-2l7sl0xw.wandb
+2024-05-02 20:09:29,730 INFO    HandlerThread:38048 [handler.py:finish():841] shutting down handler
+2024-05-02 20:09:36,595 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:09:36,595 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:10:12,774 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:10:12,774 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:11:19,861 ERROR   SenderThread:38048 [internal_api.py:execute():244] 409 response executing GraphQL.
+2024-05-02 20:11:19,861 ERROR   SenderThread:38048 [internal_api.py:execute():245] {"errors":[{"message":"run 2l7sl0xw was previously created and deleted; try a new run name","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-05-02 20:11:19,862 ERROR   StreamThr :38048 [internal.py:wandb_internal():175] Thread SenderThread:
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/apis/normalize.py", line 26, in wrapper
+    return func(*args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal_api.py", line 1592, in upsert_run
+    response = self.gql(
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal_api.py", line 213, in gql
+    ret = self._retry_gql(
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/lib/retry.py", line 128, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal_api.py", line 241, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 409 Client Error: Conflict for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal_util.py", line 49, in run
+    self._run()
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal_util.py", line 100, in _run
+    self._process(record)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/internal.py", line 329, in _process
+    self._sm.send(record)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/sender.py", line 341, in send
+    send_handler(record)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/sender.py", line 363, in send_request
+    send_handler(record)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/sender.py", line 607, in send_request_defer
+    self.debounce(final=True)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/sender.py", line 510, in debounce
+    self._maybe_update_config(always=final)
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/sender.py", line 487, in _maybe_update_config
+    self._debounce_config()
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/sdk/internal/sender.py", line 516, in _debounce_config
+    self._api.upsert_run(
+  File "/root/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/site-packages/wandb/apis/normalize.py", line 28, in wrapper
+    raise CommError(err.response, err)
+wandb.errors.CommError: <Response [409]>

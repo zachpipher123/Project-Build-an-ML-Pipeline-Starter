@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/580716fe8ef54d909a70729218453387/artifacts
+end_time: 1714685171874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 580716fe8ef54d909a70729218453387
+run_name: thundering-tern-269
+run_uuid: 580716fe8ef54d909a70729218453387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714685168672
+status: 3
+tags: []
+user_id: root

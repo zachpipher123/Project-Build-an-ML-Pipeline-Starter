@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fc8a9dbdf7894d9fb503bf184d01dc40/artifacts
+end_time: 1714687311757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc8a9dbdf7894d9fb503bf184d01dc40
+run_name: grandiose-ox-983
+run_uuid: fc8a9dbdf7894d9fb503bf184d01dc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687308993
+status: 4
+tags: []
+user_id: root

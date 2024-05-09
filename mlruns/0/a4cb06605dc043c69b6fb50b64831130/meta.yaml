@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a4cb06605dc043c69b6fb50b64831130/artifacts
+end_time: 1715215898979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4cb06605dc043c69b6fb50b64831130
+run_name: sassy-moth-977
+run_uuid: a4cb06605dc043c69b6fb50b64831130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715215884618
+status: 3
+tags: []
+user_id: root

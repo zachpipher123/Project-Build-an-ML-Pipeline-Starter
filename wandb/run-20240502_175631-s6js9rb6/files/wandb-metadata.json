@@ -1,0 +1,87 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-05-02T23:56:33.273486",
+    "startedAt": "2024-05-02T23:56:31.783876",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "/root/Project-Build-an-ML-Pipeline-Starter/src/data_check/test_data.py::test_column_names",
+        "-vv"
+    ],
+    "state": "running",
+    "program": "/root/miniconda3/envs/nyc_airbnb_dev/bin/pytest",
+    "git": {
+        "remote": "https://github.com/zachpipher123/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "8e998a8b98488b6ee6701939ca6e340cab3436f6"
+    },
+    "email": null,
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-OU8VA5U",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/nyc_airbnb_dev/bin/python3.9",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3599.9959999999996,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3599.996,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 23.917198181152344
+    },
+    "gpu": "NVIDIA GeForce GTX 1060 3GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060 3GB",
+            "memory_total": 3221225472
+        }
+    ],
+    "memory": {
+        "total": 7.724678039550781
+    }
+}

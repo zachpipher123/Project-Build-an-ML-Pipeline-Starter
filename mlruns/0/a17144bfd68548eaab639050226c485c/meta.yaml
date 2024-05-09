@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a17144bfd68548eaab639050226c485c/artifacts
+end_time: 1714693662250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a17144bfd68548eaab639050226c485c
+run_name: enthused-yak-574
+run_uuid: a17144bfd68548eaab639050226c485c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693593705
+status: 4
+tags: []
+user_id: root

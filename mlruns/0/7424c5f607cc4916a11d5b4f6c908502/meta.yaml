@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7424c5f607cc4916a11d5b4f6c908502/artifacts
+end_time: 1714693873973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7424c5f607cc4916a11d5b4f6c908502
+run_name: honorable-shrike-802
+run_uuid: 7424c5f607cc4916a11d5b4f6c908502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693852365
+status: 3
+tags: []
+user_id: root

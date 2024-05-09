@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6605d83dc0dc49f3a476628b3d9d8f40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6605d83dc0dc49f3a476628b3d9d8f40
+run_name: receptive-panda-939
+run_uuid: 6605d83dc0dc49f3a476628b3d9d8f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692461299
+status: 1
+tags: []
+user_id: root

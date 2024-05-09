@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be82f888afa74eda86e9dac3255874ae/artifacts
+end_time: 1714700395305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be82f888afa74eda86e9dac3255874ae
+run_name: sedate-roo-123
+run_uuid: be82f888afa74eda86e9dac3255874ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714700328299
+status: 4
+tags: []
+user_id: root

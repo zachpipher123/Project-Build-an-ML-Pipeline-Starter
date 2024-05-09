@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f7242f5456e14245a7ae72324ebfb6bc/artifacts
+end_time: 1714687152612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7242f5456e14245a7ae72324ebfb6bc
+run_name: aged-doe-25
+run_uuid: f7242f5456e14245a7ae72324ebfb6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687128258
+status: 3
+tags: []
+user_id: root

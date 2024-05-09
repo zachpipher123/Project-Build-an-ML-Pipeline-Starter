@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a028ab38369549d2b4692866e8bc5632/artifacts
+end_time: 1714687183245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a028ab38369549d2b4692866e8bc5632
+run_name: skittish-robin-360
+run_uuid: a028ab38369549d2b4692866e8bc5632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687168600
+status: 3
+tags: []
+user_id: root

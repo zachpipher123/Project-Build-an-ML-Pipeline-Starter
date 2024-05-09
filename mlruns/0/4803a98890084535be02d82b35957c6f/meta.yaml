@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4803a98890084535be02d82b35957c6f/artifacts
+end_time: 1714700059393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4803a98890084535be02d82b35957c6f
+run_name: crawling-elk-713
+run_uuid: 4803a98890084535be02d82b35957c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714700044045
+status: 3
+tags: []
+user_id: root

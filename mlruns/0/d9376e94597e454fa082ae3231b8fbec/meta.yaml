@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d9376e94597e454fa082ae3231b8fbec/artifacts
+end_time: 1714699851124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9376e94597e454fa082ae3231b8fbec
+run_name: painted-calf-756
+run_uuid: d9376e94597e454fa082ae3231b8fbec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699837446
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,17 @@
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_setup.py:_flush():68] Configure stats pid to 93203
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_setup.py:_flush():68] Loading settings from /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-05-02 17:27:44,854 WARNING MainThread:93203 [wandb_setup.py:_flush():68] Could not save program above cwd: /root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/root/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_init.py:_log_setup():478] Logging user logs to /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_172744-4ylu9rl0/logs/debug.log
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_init.py:_log_setup():479] Logging internal logs to /root/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240502_172744-4ylu9rl0/logs/debug-internal.log
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_init.py:init():518] calling init triggers
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_init.py:init():571] starting backend
+2024-05-02 17:27:44,854 INFO    MainThread:93203 [wandb_init.py:init():575] setting up manager
+2024-05-02 17:27:44,856 INFO    MainThread:93203 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-05-02 17:27:44,858 INFO    MainThread:93203 [wandb_init.py:init():582] backend started and connected
+2024-05-02 17:27:44,860 INFO    MainThread:93203 [wandb_init.py:init():670] updated telemetry
+2024-05-02 17:27:44,868 INFO    MainThread:93203 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout

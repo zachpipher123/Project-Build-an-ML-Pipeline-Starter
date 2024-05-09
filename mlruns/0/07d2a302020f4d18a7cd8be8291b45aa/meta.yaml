@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/07d2a302020f4d18a7cd8be8291b45aa/artifacts
+end_time: 1714699919768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07d2a302020f4d18a7cd8be8291b45aa
+run_name: valuable-finch-522
+run_uuid: 07d2a302020f4d18a7cd8be8291b45aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699891088
+status: 3
+tags: []
+user_id: root

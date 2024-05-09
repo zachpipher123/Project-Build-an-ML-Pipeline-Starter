@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5cd5a8cebd7f4c6bb4e07320034c5481/artifacts
+end_time: 1714702110049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cd5a8cebd7f4c6bb4e07320034c5481
+run_name: puzzled-toad-891
+run_uuid: 5cd5a8cebd7f4c6bb4e07320034c5481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714702074428
+status: 4
+tags: []
+user_id: root

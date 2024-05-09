@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1ba6e7b6614429a95b2c6703a18a1da/artifacts
+end_time: 1714693838708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ba6e7b6614429a95b2c6703a18a1da
+run_name: melodic-roo-892
+run_uuid: d1ba6e7b6614429a95b2c6703a18a1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693816015
+status: 3
+tags: []
+user_id: root

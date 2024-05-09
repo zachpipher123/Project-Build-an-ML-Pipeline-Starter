@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57600856e67b431ca4febd0b1750fceb/artifacts
+end_time: 1714692241891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57600856e67b431ca4febd0b1750fceb
+run_name: bustling-hog-108
+run_uuid: 57600856e67b431ca4febd0b1750fceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692218926
+status: 3
+tags: []
+user_id: root

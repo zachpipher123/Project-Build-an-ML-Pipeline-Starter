@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/860e1e70815b493e86c29ab39c16a06f/artifacts
+end_time: 1714685744873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860e1e70815b493e86c29ab39c16a06f
+run_name: fun-bat-884
+run_uuid: 860e1e70815b493e86c29ab39c16a06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714685742019
+status: 4
+tags: []
+user_id: root

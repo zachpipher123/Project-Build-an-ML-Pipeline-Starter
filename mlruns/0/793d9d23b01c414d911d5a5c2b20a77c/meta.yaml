@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/793d9d23b01c414d911d5a5c2b20a77c/artifacts
+end_time: 1714692864127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 793d9d23b01c414d911d5a5c2b20a77c
+run_name: caring-snake-89
+run_uuid: 793d9d23b01c414d911d5a5c2b20a77c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692842534
+status: 3
+tags: []
+user_id: root

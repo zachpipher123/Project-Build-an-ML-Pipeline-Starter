@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2c70cc109fb24172af020be1528d48cf/artifacts
+end_time: 1714690501506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c70cc109fb24172af020be1528d48cf
+run_name: unequaled-hound-507
+run_uuid: 2c70cc109fb24172af020be1528d48cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690433707
+status: 4
+tags: []
+user_id: root

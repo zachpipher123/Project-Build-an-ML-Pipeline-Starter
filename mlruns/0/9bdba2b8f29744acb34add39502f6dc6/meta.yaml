@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9bdba2b8f29744acb34add39502f6dc6/artifacts
+end_time: 1714690665959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bdba2b8f29744acb34add39502f6dc6
+run_name: judicious-gnat-927
+run_uuid: 9bdba2b8f29744acb34add39502f6dc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690643805
+status: 3
+tags: []
+user_id: root

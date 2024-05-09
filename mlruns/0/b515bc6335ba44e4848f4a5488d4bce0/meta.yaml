@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b515bc6335ba44e4848f4a5488d4bce0/artifacts
+end_time: 1714700059237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b515bc6335ba44e4848f4a5488d4bce0
+run_name: receptive-newt-220
+run_uuid: b515bc6335ba44e4848f4a5488d4bce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714700046121
+status: 3
+tags: []
+user_id: root

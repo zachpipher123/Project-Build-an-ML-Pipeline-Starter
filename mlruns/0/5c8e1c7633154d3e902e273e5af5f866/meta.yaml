@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c8e1c7633154d3e902e273e5af5f866/artifacts
+end_time: 1714690898852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c8e1c7633154d3e902e273e5af5f866
+run_name: calm-cub-77
+run_uuid: 5c8e1c7633154d3e902e273e5af5f866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690886724
+status: 3
+tags: []
+user_id: root

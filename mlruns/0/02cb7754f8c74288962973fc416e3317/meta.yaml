@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/02cb7754f8c74288962973fc416e3317/artifacts
+end_time: 1714690787561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02cb7754f8c74288962973fc416e3317
+run_name: intrigued-whale-336
+run_uuid: 02cb7754f8c74288962973fc416e3317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690771826
+status: 3
+tags: []
+user_id: root

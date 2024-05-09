@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50f94f57172045b08ac55ae0faf08430/artifacts
+end_time: 1714690787405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50f94f57172045b08ac55ae0faf08430
+run_name: carefree-quail-836
+run_uuid: 50f94f57172045b08ac55ae0faf08430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690773963
+status: 3
+tags: []
+user_id: root

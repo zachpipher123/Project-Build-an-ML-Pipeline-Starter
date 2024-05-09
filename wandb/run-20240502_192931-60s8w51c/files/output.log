@@ -1,0 +1,2 @@
+Artifact uploaded, use this artifact in a run by adding:
+    artifact = run.use_artifact("zachpipher123/testing/artifact_test:v0")

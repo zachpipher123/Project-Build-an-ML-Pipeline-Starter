@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/504a3582fded4c1294d4947305f90c44/artifacts
+end_time: 1714702109817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 504a3582fded4c1294d4947305f90c44
+run_name: whimsical-lamb-464
+run_uuid: 504a3582fded4c1294d4947305f90c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714702076906
+status: 4
+tags: []
+user_id: root

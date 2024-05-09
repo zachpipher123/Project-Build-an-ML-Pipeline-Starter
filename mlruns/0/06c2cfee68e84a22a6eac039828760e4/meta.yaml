@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/06c2cfee68e84a22a6eac039828760e4/artifacts
+end_time: 1714687095986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06c2cfee68e84a22a6eac039828760e4
+run_name: fortunate-dove-641
+run_uuid: 06c2cfee68e84a22a6eac039828760e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687075275
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6fd79507ce204f97b23bdf32cf9e8113/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd79507ce204f97b23bdf32cf9e8113
+run_name: bustling-skunk-57
+run_uuid: 6fd79507ce204f97b23bdf32cf9e8113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714702132553
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/274382d682df47eb8b3547c32f94c2fc/artifacts
+end_time: 1714690993969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 274382d682df47eb8b3547c32f94c2fc
+run_name: suave-rat-539
+run_uuid: 274382d682df47eb8b3547c32f94c2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690963354
+status: 3
+tags: []
+user_id: root

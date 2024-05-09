@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/197e94c6c3574173979b0da2733da090/artifacts
+end_time: 1714702529978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 197e94c6c3574173979b0da2733da090
+run_name: bald-cod-820
+run_uuid: 197e94c6c3574173979b0da2733da090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714702497761
+status: 4
+tags: []
+user_id: root

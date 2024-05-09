@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/363e5aed74f04f6a93853f8a0a09a08d/artifacts
+end_time: 1714699976562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 363e5aed74f04f6a93853f8a0a09a08d
+run_name: salty-dog-684
+run_uuid: 363e5aed74f04f6a93853f8a0a09a08d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699954787
+status: 3
+tags: []
+user_id: root

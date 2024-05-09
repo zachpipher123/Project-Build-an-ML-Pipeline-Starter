@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/665ca6ba2c2740b392b1ac91376ad598/artifacts
+end_time: 1714691361356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 665ca6ba2c2740b392b1ac91376ad598
+run_name: receptive-colt-659
+run_uuid: 665ca6ba2c2740b392b1ac91376ad598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714691358285
+status: 3
+tags: []
+user_id: root

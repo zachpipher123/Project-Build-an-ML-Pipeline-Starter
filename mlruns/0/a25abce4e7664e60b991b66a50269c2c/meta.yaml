@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a25abce4e7664e60b991b66a50269c2c/artifacts
+end_time: 1714685770154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a25abce4e7664e60b991b66a50269c2c
+run_name: auspicious-shrew-357
+run_uuid: a25abce4e7664e60b991b66a50269c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714685767339
+status: 4
+tags: []
+user_id: root

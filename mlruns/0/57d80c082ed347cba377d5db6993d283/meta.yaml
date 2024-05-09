@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57d80c082ed347cba377d5db6993d283/artifacts
+end_time: 1715215899142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57d80c082ed347cba377d5db6993d283
+run_name: loud-fowl-501
+run_uuid: 57d80c082ed347cba377d5db6993d283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715215882472
+status: 3
+tags: []
+user_id: root

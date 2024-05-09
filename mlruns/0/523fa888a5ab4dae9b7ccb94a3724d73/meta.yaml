@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/523fa888a5ab4dae9b7ccb94a3724d73/artifacts
+end_time: 1714687892223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 523fa888a5ab4dae9b7ccb94a3724d73
+run_name: capricious-carp-637
+run_uuid: 523fa888a5ab4dae9b7ccb94a3724d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687889396
+status: 4
+tags: []
+user_id: root

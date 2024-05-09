@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9e44605ad319409bbeae6fb985dffffe/artifacts
+end_time: 1714690993791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e44605ad319409bbeae6fb985dffffe
+run_name: spiffy-smelt-281
+run_uuid: 9e44605ad319409bbeae6fb985dffffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690968103
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/873a6dfd62ba4e58b90f5a6bed730568/artifacts
+end_time: 1714687757952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 873a6dfd62ba4e58b90f5a6bed730568
+run_name: honorable-panda-131
+run_uuid: 873a6dfd62ba4e58b90f5a6bed730568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714687755169
+status: 4
+tags: []
+user_id: root

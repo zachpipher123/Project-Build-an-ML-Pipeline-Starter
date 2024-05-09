@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc77d8ff56a84225b9d271c0056c4ef8/artifacts
+end_time: 1714693662526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc77d8ff56a84225b9d271c0056c4ef8
+run_name: likeable-crow-745
+run_uuid: cc77d8ff56a84225b9d271c0056c4ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714693590271
+status: 4
+tags: []
+user_id: root

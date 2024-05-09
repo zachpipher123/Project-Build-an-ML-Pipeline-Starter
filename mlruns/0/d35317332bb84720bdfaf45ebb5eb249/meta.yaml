@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d35317332bb84720bdfaf45ebb5eb249/artifacts
+end_time: 1714701717119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d35317332bb84720bdfaf45ebb5eb249
+run_name: bemused-lamb-607
+run_uuid: d35317332bb84720bdfaf45ebb5eb249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714701680307
+status: 4
+tags: []
+user_id: root

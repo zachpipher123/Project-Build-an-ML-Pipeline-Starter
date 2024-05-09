@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a55705a4e8df40a1b550bf620127e380/artifacts
+end_time: 1714699689727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a55705a4e8df40a1b550bf620127e380
+run_name: resilient-whale-737
+run_uuid: a55705a4e8df40a1b550bf620127e380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699668663
+status: 3
+tags: []
+user_id: root

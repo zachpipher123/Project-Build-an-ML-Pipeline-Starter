@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/15d9e39476284ea08bfdc705d0e7f192/artifacts
+end_time: 1714686051036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d9e39476284ea08bfdc705d0e7f192
+run_name: colorful-bird-923
+run_uuid: 15d9e39476284ea08bfdc705d0e7f192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714686048238
+status: 4
+tags: []
+user_id: root

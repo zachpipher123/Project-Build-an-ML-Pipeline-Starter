@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/890b7f45b2364539bfe5aa82500bb2d8/artifacts
+end_time: 1714685886966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 890b7f45b2364539bfe5aa82500bb2d8
+run_name: resilient-calf-652
+run_uuid: 890b7f45b2364539bfe5aa82500bb2d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714685884172
+status: 4
+tags: []
+user_id: root

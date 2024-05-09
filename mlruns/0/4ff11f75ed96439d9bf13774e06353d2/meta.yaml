@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4ff11f75ed96439d9bf13774e06353d2/artifacts
+end_time: 1714685916387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff11f75ed96439d9bf13774e06353d2
+run_name: valuable-bat-825
+run_uuid: 4ff11f75ed96439d9bf13774e06353d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714685913503
+status: 4
+tags: []
+user_id: root

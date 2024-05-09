@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dae172e738e74bc8847551fb1c1ee1d9/artifacts
+end_time: 1714690369115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dae172e738e74bc8847551fb1c1ee1d9
+run_name: kindly-cub-211
+run_uuid: dae172e738e74bc8847551fb1c1ee1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714690339853
+status: 3
+tags: []
+user_id: root

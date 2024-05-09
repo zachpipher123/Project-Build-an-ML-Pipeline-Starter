@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/060624644ec44eedb147a0cd475ae0ec/artifacts
+end_time: 1714699976404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 060624644ec44eedb147a0cd475ae0ec
+run_name: mercurial-crane-114
+run_uuid: 060624644ec44eedb147a0cd475ae0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699956838
+status: 3
+tags: []
+user_id: root

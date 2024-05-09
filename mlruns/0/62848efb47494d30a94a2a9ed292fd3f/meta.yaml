@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/62848efb47494d30a94a2a9ed292fd3f/artifacts
+end_time: 1714699622645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62848efb47494d30a94a2a9ed292fd3f
+run_name: able-shoat-191
+run_uuid: 62848efb47494d30a94a2a9ed292fd3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699602639
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60c23d49f8724799815eb716ee91de50/artifacts
+end_time: 1714699919604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c23d49f8724799815eb716ee91de50
+run_name: polite-penguin-12
+run_uuid: 60c23d49f8724799815eb716ee91de50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699899293
+status: 3
+tags: []
+user_id: root

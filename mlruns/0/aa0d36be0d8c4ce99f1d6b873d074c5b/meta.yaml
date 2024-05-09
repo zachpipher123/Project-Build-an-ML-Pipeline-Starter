@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aa0d36be0d8c4ce99f1d6b873d074c5b/artifacts
+end_time: 1714699535701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa0d36be0d8c4ce99f1d6b873d074c5b
+run_name: thoughtful-auk-294
+run_uuid: aa0d36be0d8c4ce99f1d6b873d074c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714699244990
+status: 4
+tags: []
+user_id: root

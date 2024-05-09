@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cd0c3b4dc553463e9d54bdb237b9a8b3/artifacts
+end_time: 1714692126398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd0c3b4dc553463e9d54bdb237b9a8b3
+run_name: bemused-owl-169
+run_uuid: cd0c3b4dc553463e9d54bdb237b9a8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714692124782
+status: 4
+tags: []
+user_id: root
